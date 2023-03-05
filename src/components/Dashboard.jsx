@@ -7,7 +7,7 @@ const Dashboard = () => {
     const user = auth.currentUser;
 
    
- let image="./img/"+localStorage.getItem(user.email)+".jpg"
+ let image="img/"+localStorage.getItem(user.email)+".jpg"
 
   return (
     <div className='cont'>

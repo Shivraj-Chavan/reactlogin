@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reactlogin/static/css/main.5dc88f31.css",
+    "main.js": "/reactlogin/static/js/main.d6e9a77a.js",
+    "static/js/787.5c89b2bc.chunk.js": "/reactlogin/static/js/787.5c89b2bc.chunk.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/reactlogin/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/fontawesome-webfont.eot": "/reactlogin/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/reactlogin/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/reactlogin/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/reactlogin/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/logo.png": "/reactlogin/static/media/logo.f4cf379d01aab4ebdf59.png",
+    "index.html": "/reactlogin/index.html",
+    "main.5dc88f31.css.map": "/reactlogin/static/css/main.5dc88f31.css.map",
+    "main.d6e9a77a.js.map": "/reactlogin/static/js/main.d6e9a77a.js.map",
+    "787.5c89b2bc.chunk.js.map": "/reactlogin/static/js/787.5c89b2bc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5dc88f31.css",
+    "static/js/main.d6e9a77a.js"
+  ]
+}
